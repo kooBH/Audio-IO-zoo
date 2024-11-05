@@ -1,0 +1,3 @@
+[submodule "RtAudioWrapper"]
+	path = RtAudioWrapper
+	url = https://github.com/kooBH/RtAudioWrapper.git
